@@ -196,6 +196,7 @@ body{
     }
     
     .lista div{
+        border: #fff solid;
         background-color: #acacac;
         width: 150px;
         height: 1px;
@@ -206,6 +207,7 @@ body{
     .lista span{
         font-family: oswald;
         color: var(--cor-aux);
+
     }
     
     .lista p{
@@ -213,9 +215,9 @@ body{
         font-family: lato;
         margin: auto;
         color: #acacac;
-        padding: auto;
-        line-height: 0;
         padding: 0;
+        line-height: 0;
+        padding: auto;
         text-align: right;
     }
     
